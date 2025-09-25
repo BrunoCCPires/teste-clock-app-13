@@ -1,1 +1,1 @@
-Added CSS to make background red and fullscreen with centered clock
+Added App.css with blue background and white text for contrast
